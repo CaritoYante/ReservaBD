@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReservaBDCaro</string>
+    <string name="nombre">Nombre</string>
+    <string name="guardar">Guardar</string>
+</resources>
